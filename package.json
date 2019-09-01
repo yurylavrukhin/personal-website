@@ -1,0 +1,27 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ajmdag/personal-website.git",
+  "author": "Yury Lavrukhin <yurka7321@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf dist",
+    "prestart": "npm run clean && gulp",
+    "start": "gulp watch & eleventy --serve",
+    "prebuild": "npm run clean",
+    "build": "gulp && eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "0.9.0",
+    "autoprefixer": "9.6.1",
+    "gulp": "4.0.2",
+    "gulp-postcss": "8.0.0",
+    "gulp-sourcemaps": "2.6.5",
+    "husky": "3.0.4",
+    "lint-staged": "9.2.5",
+    "postcss-easy-import": "3.0.0",
+    "prettier": "1.18.2"
+  }
+}
