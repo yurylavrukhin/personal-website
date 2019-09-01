@@ -1,0 +1,12 @@
+---
+  layout: layouts/base.njk
+---
+
+<article>
+  <header>
+    {% if coverUrl %}
+      <img src="{{ coverUrl }}" alt="">
+    {% endif %}
+  </header>
+  {{content | safe}}
+</article>
