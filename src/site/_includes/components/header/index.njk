@@ -1,0 +1,24 @@
+{% macro header(page) %}
+<header class="header">
+  <div class="header__avatar-container">
+    <img class="header__avatar-image" src="/assets/images/me.jpg">
+    <a href="/" class="header__avatar-text">Yury Lavrukhin</a>
+  </div>
+  <nav class="nav">
+    <ul class="nav__list">
+      <li class="nav__item">
+        <a href="/" class="nav__link{% if page.url === '/' %} nav__link--active{%endif%}">Home</a>
+      </li>
+      <li class="nav__item">
+        <a href="/articles/" class="nav__link{% if page.url === '/articles/' %} nav__link--active{%endif%}">Articles</a>
+      </li>
+      <li class="nav__item">
+        <a href="/about/" class="nav__link{% if page.url === '/about/' %} nav__link--active{%endif%}">About</a>
+      </li>
+      <li class="nav__item">
+        <a href="/cv/" class="nav__link{% if page.url === '/cv/' %} nav__link--active{%endif%}">CV</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+{% endmacro %}
