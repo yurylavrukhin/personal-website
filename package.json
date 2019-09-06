@@ -22,6 +22,7 @@
     "husky": "3.0.4",
     "lint-staged": "9.2.5",
     "postcss-easy-import": "3.0.0",
+    "postcss-nested": "4.1.2",
     "prettier": "1.18.2"
   }
 }
