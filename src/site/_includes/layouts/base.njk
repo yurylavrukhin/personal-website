@@ -1,10 +1,11 @@
 ---
-title: Yury Lavrukhin, frontend web developer
-description: I write articles about web technologies
+title: Yury Lavrukhin
+description: Hi! I'm a front-end developer. I write articles about web technologies. JavaScript, TypeScript, React.
 ---
+{% from 'components/header/index.njk' import header %}
 
 <!doctype html>
-<html lang="en">
+<html lang="en-US">
 
   <head>
     <meta charset="utf-8">
@@ -21,9 +22,11 @@ description: I write articles about web technologies
   </head>
 
   <body>
-      <main>
-        {{ content | safe }}
-      </main>
+    {{ header(page=page)}}
+
+    <main>
+      {{ content | safe }}
+    </main>
   </body>
 
 </html>
