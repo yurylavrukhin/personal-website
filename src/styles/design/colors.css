@@ -1,0 +1,7 @@
+:root {
+  --color-primary-text: #1f2832;
+  --color-primary-links: #51f1be;
+  --color-hover-links: #fff;
+}
+
+/* document.documentElement.style.setProperty('--somevar', 'value'); */
