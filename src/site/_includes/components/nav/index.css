@@ -4,11 +4,13 @@
 
   &__list {
     list-style: none;
-    display: flex;
+    text-align: center;
   }
 
   &__item {
-    margin-right: 30px;
+    margin: 0 15px;
+    padding: 5px 0;
+    display: inline-block;
   }
 
   &__link {

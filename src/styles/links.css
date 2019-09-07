@@ -7,7 +7,7 @@ main a,
 nav a {
   position: relative;
   cursor: pointer;
-  padding: 5px;
+  padding: 2px 5px;
   transition: 200ms color ease;
 
   &:hover {
@@ -22,7 +22,7 @@ nav a {
     content: '';
     background-color: var(--color-primary-links);
     bottom: 0;
-    top: 75%;
+    top: 85%;
     left: 0;
     right: 0;
   }
