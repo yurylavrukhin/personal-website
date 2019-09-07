@@ -10,6 +10,7 @@
   font-size: var(--typo-font-size);
   font-family: var(--typo-font-family);
   line-height: var(--typo-line-height);
+  color: var(--color-primary-text);
 }
 
 body {
