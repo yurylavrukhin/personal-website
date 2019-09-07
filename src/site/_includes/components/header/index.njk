@@ -1,4 +1,4 @@
-{% macro header(page) %}
+{% macro header(page, routes) %}
 <header class="header">
   <div class="header__avatar-container">
     <img class="header__avatar-image" src="/assets/images/me.jpg">
@@ -6,18 +6,14 @@
   </div>
   <nav class="nav">
     <ul class="nav__list">
-      <li class="nav__item">
-        <a href="/" class="nav__link{% if page.url === '/' %} nav__link--active{%endif%}">Home</a>
-      </li>
-      <li class="nav__item">
-        <a href="/articles/" class="nav__link{% if page.url === '/articles/' %} nav__link--active{%endif%}">Articles</a>
-      </li>
-      <li class="nav__item">
-        <a href="/about/" class="nav__link{% if page.url === '/about/' %} nav__link--active{%endif%}">About</a>
-      </li>
-      <li class="nav__item">
-        <a href="/cv/" class="nav__link{% if page.url === '/cv/' %} nav__link--active{%endif%}">CV</a>
-      </li>
+      {% for navigationLink in routes.navigationLinks %}
+        <li class="nav__item">
+          <a
+            class="nav__link{% if page.url === navigationLink.url %} nav__link--active{%endif%}"
+            href="{{navigationLink.url}}"
+          >{{navigationLink.title}}</a>
+        </li>
+      {% endfor %}
     </ul>
   </nav>
 </header>

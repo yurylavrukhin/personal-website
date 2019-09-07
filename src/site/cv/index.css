@@ -1,0 +1,36 @@
+.cv {
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  margin-bottom: 20px;
+
+  &__list {
+    margin: 0;
+
+    @media (max-width: 480px) {
+      padding-left: 25px;
+    }
+  }
+
+  &__item {
+    font-size: calc(12px + 0.5vw);
+
+    &:not(:last-child) {
+      margin-bottom: 5px;
+    }
+  }
+}
+
+.education {
+  margin-bottom: 20px;
+}
+
+.experience {
+  margin-bottom: 20px;
+
+  .case-item__header {
+    margin-bottom: 10px;
+  }
+}

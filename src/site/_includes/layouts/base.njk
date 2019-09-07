@@ -25,9 +25,9 @@ description: Hi! I'm a front-end developer. I write articles about web technolog
   </head>
 
   <body>
-    {{ header(page=page)}}
+    {{ header(page=page, routes=routes)}}
 
-    <main>
+    <main class="main">
       {{ content | safe }}
     </main>
   </body>
