@@ -25,3 +25,11 @@ img {
   max-width: 100%;
   display: block;
 }
+
+.content :matches(p, h1, h2, h3, img) {
+  margin: calc(var(--typo-baseline) * 0.5) 0;
+}
+
+.content :first-child {
+  margin-top: 0;
+}
