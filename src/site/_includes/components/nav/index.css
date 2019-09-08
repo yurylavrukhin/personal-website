@@ -11,6 +11,10 @@
     margin: 0 15px;
     padding: 5px 0;
     display: inline-block;
+
+    @media (max-width: 768px) {
+      margin: 0 6px;
+    }
   }
 
   &__link {

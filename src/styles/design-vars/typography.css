@@ -5,4 +5,8 @@
   --typo-font-size: calc(16px + 0.4vw);
   --typo-line-height: 1.6;
   --typo-baseline: calc(var(--typo-line-height) * var(--typo-font-size));
+
+  @media (max-width: 768px) {
+    --typo-line-height: 1.4;
+  }
 }

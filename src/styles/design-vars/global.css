@@ -9,12 +9,16 @@
 :root {
   font-size: var(--typo-font-size);
   font-family: var(--typo-font-family);
-  line-height: var(--typo-line-height);
   color: var(--color-primary-text);
+  line-height: var(--typo-line-height);
 }
 
 body {
   padding: 20px;
+
+  @media (max-width: 480px) {
+    padding: 15px;
+  }
 }
 
 img {
