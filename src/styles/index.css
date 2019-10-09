@@ -1,3 +1,4 @@
+@import './third-parties/prism.css';
 @import './design-vars/*.css';
 @import '../site/**/*.css';
 @import './*.css';

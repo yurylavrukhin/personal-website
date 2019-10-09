@@ -2,6 +2,7 @@ h1 {
   text-align: center;
   font-size: 2.7rem;
   margin-bottom: var(--typo-baseline);
+  line-height: 1.2;
 
   @media (max-width: 768px) {
     font-size: 2.2rem;
@@ -11,7 +12,8 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  margin-bottom: var(--typo-baseline);
+  margin-bottom: calc(var(--typo-baseline) * 0.5);
+  margin-top: var(--typo-baseline);
 
   @media (max-width: 768px) {
     font-size: 1.5rem;
