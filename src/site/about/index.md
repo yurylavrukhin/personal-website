@@ -7,7 +7,9 @@ layout: layouts/base.njk
 
   Hi! My name is Yura.
 
-  I'm a frontend web developer, I write about web technologies here
+  I'm a frontend web developer, I write about web technologies here.
+
+  [THIS](https://t.me/lavrucci/ "Channel") — is my telegram channel where I post my thoughts content about business and web I found worth to share.
 
   Personal priorities in life: freedom, health, achievements, cheerfulness.
   ### Contacts
@@ -16,6 +18,4 @@ layout: layouts/base.njk
   [GitHub](https://github.com/Ajmdag/ "GitHub")
   [yurka7321@gmail.com](mailto:yurka7321@gmail.com "E-mail")
 
-
-  ## By the way, I'm looking for a job!
 </div>
