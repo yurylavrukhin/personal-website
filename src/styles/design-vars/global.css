@@ -24,6 +24,7 @@ body {
 img {
   max-width: 100%;
   display: block;
+  max-height: 800px;
 }
 
 .content :matches(p, h1, h2, h3, img) {

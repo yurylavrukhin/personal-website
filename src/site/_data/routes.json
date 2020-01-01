@@ -5,6 +5,14 @@
       "title": "Home"
     },
     {
+      "url": "/movies/",
+      "title": "Movies"
+    },
+    {
+      "url": "/books/",
+      "title": "Books"
+    },
+    {
       "url": "/about/",
       "title": "About"
     },
