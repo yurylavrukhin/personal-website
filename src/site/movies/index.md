@@ -3,9 +3,22 @@ layout: layouts/base.njk
 ---
 
 # Movies I've seen
+## 2020
+<div class="movies">
+  <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Cloverfield (2008)</li>
+    <li class="movies__item movies__item--eng">Prison Break 1st season (2005-2006)</li>
+    <li class="movies__item movies__item--eng">Watchmen (2009)</li>
+    <li class="movies__item movies__item--eng">Uncut Gems (2019)</li>
+    <li class="movies__item">That Sugar Film (2014) (rus)</li>
+    <li class="movies__item movies__item--eng">Have Dreams, Will Travel (2007)</li>
+  </ul>
+</div>
+
 ## 2019
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Once Upon A Time In Hollywood (2019)</li>
     <li class="movies__item movies__item--eng">Rush Hour 3 (2007)</li>
     <li class="movies__item movies__item--eng">Rush Hour 2 (2001)</li>
     <li class="movies__item movies__item--eng">Rush Hour (1998)</li>
