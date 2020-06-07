@@ -6,6 +6,10 @@ layout: layouts/base.njk
 ## 2020
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Rip Girls (2000)</li>
+    <li class="movies__item movies__item--eng">127 Hours (2010)</li>
+    <li class="movies__item movies__item--eng">Home Alone 2: Lost in New York (1992)</li>
+    <li class="movies__item movies__item--eng">Home Alone (1990)</li>
     <li class="movies__item movies__item--eng">Cloverfield (2008)</li>
     <li class="movies__item movies__item--eng">Prison Break 1st season (2005-2006)</li>
     <li class="movies__item movies__item--eng">Watchmen (2009)</li>
