@@ -6,7 +6,8 @@ layout: layouts/base.njk
 ## 2020
 <div class="movies">
   <ul class="movies__list">
-    <li class="movies__item movies__item--eng">Rip Girls (2000)</li>
+    <li class="movies__item movies__item--eng">Point Break (1991)</li>
+    <li class="movies__item">Rip Girls (2000)</li>
     <li class="movies__item movies__item--eng">127 Hours (2010)</li>
     <li class="movies__item movies__item--eng">Home Alone 2: Lost in New York (1992)</li>
     <li class="movies__item movies__item--eng">Home Alone (1990)</li>
