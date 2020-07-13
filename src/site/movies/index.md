@@ -6,6 +6,7 @@ layout: layouts/base.njk
 ## 2020
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item">Priboi (2018)</li>
     <li class="movies__item movies__item--eng">Point Break (1991)</li>
     <li class="movies__item">Rip Girls (2000)</li>
     <li class="movies__item">The Motorcycle Diaries (2004)</li>
