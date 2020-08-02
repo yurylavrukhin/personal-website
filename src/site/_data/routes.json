@@ -9,6 +9,10 @@
       "title": "Movies"
     },
     {
+      "url": "/quotes/",
+      "title": "Quotes"
+    },
+    {
       "url": "/books/",
       "title": "Books"
     },
