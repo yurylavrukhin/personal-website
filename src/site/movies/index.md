@@ -17,6 +17,7 @@ layout: layouts/base.njk
     <li class="movies__item movies__item--eng">Home Alone (1990)</li>
     <li class="movies__item movies__item--eng">Cloverfield (2008)</li>
     <li class="movies__item movies__item--eng">Prison Break 1st season (2005-2006)</li>
+    <li class="movies__item movies__item--eng">Coming to America (1988)</li>
     <li class="movies__item movies__item--eng">Watchmen (2009)</li>
     <li class="movies__item movies__item--eng">Uncut Gems (2019)</li>
     <li class="movies__item">That Sugar Film (2014) (rus)</li>
