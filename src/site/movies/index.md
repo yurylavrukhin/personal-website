@@ -6,6 +6,8 @@ layout: layouts/base.njk
 ## 2020
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Four Rooms (1995)</li>
+    <li class="movies__item movies__item--eng">Pulp Fiction (1994)</li>
     <li class="movies__item movies__item--eng">Training Day (2001)</li>
     <li class="movies__item movies__item--eng">American Gangster (2007)</li>
     <li class="movies__item movies__item--eng">The Castle (1997)</li>
