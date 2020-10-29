@@ -6,6 +6,8 @@ layout: layouts/base.njk
 ## 2020
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">American Psycho (2000)</li>
+    <li class="movies__item">Howl's Moving Castle (2004)</li>
     <li class="movies__item movies__item--eng">Men in Black (1997)</li>
     <li class="movies__item movies__item--eng">Yes Man (2008)</li>
     <li class="movies__item movies__item--eng">Four Rooms (1995)</li>
