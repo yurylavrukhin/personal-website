@@ -6,6 +6,7 @@ layout: layouts/base.njk
 ## 2020
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">The Gods Must Be Crazy (1980)</li>
     <li class="movies__item movies__item--eng">American Psycho (2000)</li>
     <li class="movies__item">Howl's Moving Castle (2004)</li>
     <li class="movies__item movies__item--eng">Men in Black (1997)</li>
