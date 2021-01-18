@@ -13,6 +13,10 @@
       "title": "Quotes"
     },
     {
+      "url": "/places/",
+      "title": "Places"
+    },
+    {
       "url": "/books/",
       "title": "Books"
     },
