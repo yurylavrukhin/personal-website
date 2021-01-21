@@ -6,6 +6,7 @@ layout: layouts/base.njk
 ## 2020
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Inside Out (2015)</li>
     <li class="movies__item movies__item--eng">Shutter Island (2010)</li>
     <li class="movies__item movies__item--eng">The Gods Must Be Crazy (1980)</li>
     <li class="movies__item movies__item--eng">American Psycho (2000)</li>
