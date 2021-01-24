@@ -3,10 +3,17 @@ layout: layouts/base.njk
 ---
 
 # Movies I've seen
-## 2020
+## 2021
 <div class="movies">
   <ul class="movies__list">
     <li class="movies__item movies__item--eng">The Hangover (2009)</li>
+  </ul>
+</div>
+
+## 2020
+<div class="movies">
+  <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Inside Out (2015)</li>
     <li class="movies__item movies__item--eng">Shutter Island (2010)</li>
     <li class="movies__item movies__item--eng">The Gods Must Be Crazy (1980)</li>
     <li class="movies__item movies__item--eng">American Psycho (2000)</li>
@@ -33,7 +40,7 @@ layout: layouts/base.njk
     <li class="movies__item movies__item--eng">Coming to America (1988)</li>
     <li class="movies__item movies__item--eng">Watchmen (2009)</li>
     <li class="movies__item movies__item--eng">Uncut Gems (2019)</li>
-    <li class="movies__item">That Sugar Film (2014) (rus)</li>
+    <li class="movies__item">That Sugar Film (2014)</li>
     <li class="movies__item movies__item--eng">Have Dreams, Will Travel (2007)</li>
   </ul>
 </div>
@@ -65,9 +72,7 @@ layout: layouts/base.njk
     <li class="movies__item movies__item--eng">Meet Joe Black (1998)</li>
     <li class="movies__item movies__item--eng">Green Book (2018)</li>
     <li class="movies__item movies__item--eng">Escape Plan (2013)</li>
-    <li class="movies__item movies__item--rus">
-      Knockin' on Heaven's Door (1997) (rus)
-    </li>
+    <li class="movies__item">Knockin' on Heaven's Door (1997)</li>
     <li class="movies__item movies__item--eng">In Time (2011)</li>
     <li class="movies__item movies__item--eng">American Beauty (1999)</li>
     <li class="movies__item movies__item--eng">
