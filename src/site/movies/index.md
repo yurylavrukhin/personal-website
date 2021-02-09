@@ -6,6 +6,9 @@ layout: layouts/base.njk
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item">Boyz n the Hood (1991)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item">District 13 (2004)
       <span class="comment">👍</span>
     </li>
