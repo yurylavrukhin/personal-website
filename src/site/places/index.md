@@ -6,7 +6,9 @@ layout: layouts/base.njk
 
 ## 2021
 
-Phuket, Thailand — 9 january — now
+Bangkok, Thailand — 23 february — now
+
+Phuket, Thailand — 9 january — 23 february
 
 Bangkok, Thailand — 8 january — 9 january
 
