@@ -6,6 +6,7 @@ layout: layouts/base.njk
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Enter the Dragon (1973)</li>
     <li class="movies__item movies__item--eng">Planet Earth II: Episode 2, Mountains (2016)</li>
     <li class="movies__item movies__item--eng">Planet Earth II: Episode 1, Islands (2016)</li>
     <li class="movies__item">Boyz n the Hood (1991)
