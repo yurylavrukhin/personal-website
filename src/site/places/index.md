@@ -6,7 +6,9 @@ layout: layouts/base.njk
 
 ## 2021
 
-Bangkok, Thailand — 23 february — now
+Chiang Rai, Thailand — 27 february — now
+
+Bangkok, Thailand — 23 february — 27 february
 
 Phuket, Thailand — 9 january — 23 february
 
