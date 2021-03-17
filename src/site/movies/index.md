@@ -6,6 +6,10 @@ layout: layouts/base.njk
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">The Neon Demon (2016)</li>
+    <li class="movies__item movies__item--eng">Green Street (2005)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item movies__item--eng">The Great Gatsby (2013)</li>
     <li class="movies__item movies__item--eng">Catch Me If You Can (2002)
       <span class="comment">👍</span>
