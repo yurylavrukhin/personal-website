@@ -6,7 +6,9 @@ layout: layouts/base.njk
 
 ## 2021
 
-Chiang Rai, Thailand — 27 february — now
+Chiang Mai, Thailand — 9 april — now
+
+Chiang Rai, Thailand — 27 february — 9 april
 
 Bangkok, Thailand — 23 february — 27 february
 
