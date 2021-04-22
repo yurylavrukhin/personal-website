@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2021
 
-Chiang Mai, Thailand — 9 april — now
+Surat Thani, Thailand — 20 april — 21 april
+
+Phang Nga, Thailand — 20 april
+
+Phuket, Thailand — 17 april — 20 april
+
+Chiang Mai, Thailand — 9 april — 17 april
 
 Chiang Rai, Thailand — 27 february — 9 april
 
