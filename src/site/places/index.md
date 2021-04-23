@@ -6,6 +6,10 @@ layout: layouts/base.njk
 
 ## 2021
 
+Phatthalung, Thailand  — 22 april — now
+
+Nakhon Si Thammarat, Thailand  — 21 april — 22 april
+
 Surat Thani, Thailand — 20 april — 21 april
 
 Phang Nga, Thailand — 20 april
