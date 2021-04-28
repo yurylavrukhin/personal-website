@@ -6,7 +6,17 @@ layout: layouts/base.njk
 
 ## 2021
 
-Narathiwat, Thailand — 25 april — now
+Phuket, Thailand — 27 april — now
+
+Trang, Thailand — 26 april — 27 april
+
+Satun, Thailand — 26 april
+
+Yala, Thailand — 26 april
+
+Su-ngai Kolok, Thailand — 26 april
+
+Narathiwat, Thailand — 25 april — 26 april
 
 Pattani, Thailand — 25 april
 
