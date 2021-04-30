@@ -6,7 +6,9 @@ layout: layouts/base.njk
 
 ## 2021
 
-Phuket, Thailand — 27 april — now
+Bangkok, Thailand — 29 april — now
+
+Phuket, Thailand — 27 april — 29 april
 
 Trang, Thailand — 26 april — 27 april
 
