@@ -6,6 +6,8 @@ layout: layouts/base.njk
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Crossroads (1986)</li>
+    <li class="movies__item movies__item--eng">17 Again (2009)</li>
     <li class="movies__item movies__item--eng">Godzilla vs. Kong (2021)</li>
     <li class="movies__item movies__item--eng">The Bucket List (2007)</li>
     <li class="movies__item movies__item--eng">The Shawshank Redemption (1994)</li>
@@ -95,7 +97,9 @@ layout: layouts/base.njk
     <li class="movies__item movies__item--eng">Forrest Gump (1994)</li>
     <li class="movies__item movies__item--eng">The Blind Side (2009)</li>
     <li class="movies__item movies__item--eng">The 300 Spartans (1962)</li>
-    <li class="movies__item movies__item--eng">Meet Joe Black (1998)</li>
+    <li class="movies__item movies__item--eng">Meet Joe Black (1998)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item movies__item--eng">Green Book (2018)</li>
     <li class="movies__item movies__item--eng">Escape Plan (2013)</li>
     <li class="movies__item">Knockin' on Heaven's Door (1997)</li>
