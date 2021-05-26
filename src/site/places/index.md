@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2021
 
-Bangkok, Thailand — 29 april — now
+Chiang Rai, Thailand — 20 may — now
+
+Chiang Mai, Thailand — 18 may — 20 may
+
+Chiang Rai, Thailand — 3 may — 18 may
+
+Bangkok, Thailand — 29 april — 3 may
 
 Phuket, Thailand — 27 april — 29 april
 
