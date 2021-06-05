@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ## 2021
 
-Chiang Rai, Thailand — 20 may — now
+Chiang Rai, Thailand — 4 june — now
+
+Bangkok, Thailand — 1 june — 4 june
+
+Chiang Rai, Thailand — 20 may — 1 june
 
 Chiang Mai, Thailand — 18 may — 20 may
 
