@@ -91,7 +91,11 @@ Phuket, Thailand — 02 december - 04 march
 ## 2019
 Bangkok, Thailand  — 29 november - 02 december
 
-Phuket, Thailand — 19 november — 29 november
+Phuket, Thailand — 24 november — 29 november
+
+Phi Phi Islands, Thailand — 23 november — 24 november
+
+Phuket, Thailand — 19 november — 23 november
 
 Kuala-Lumpur, Malaysia — 17 november - 19 november
 
