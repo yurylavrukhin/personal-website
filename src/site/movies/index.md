@@ -6,6 +6,9 @@ layout: layouts/base.njk
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Terminator 3: Rise of the Machines (2003)</li>
+    <li class="movies__item movies__item--eng">Terminator 2: Judgment Day (1991)</li>
+    <li class="movies__item movies__item--eng">The Terminator (1984)</li>
     <li class="movies__item movies__item--eng">Crossroads (1986)</li>
     <li class="movies__item movies__item--eng">17 Again (2009)</li>
     <li class="movies__item movies__item--eng">Godzilla vs. Kong (2021)</li>
