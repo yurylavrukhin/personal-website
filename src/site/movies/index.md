@@ -6,6 +6,14 @@ layout: layouts/base.njk
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">The Grand Seduction (2013)</li>
+    <li class="movies__item movies__item--eng">Beverly Hills Cop (1984)</li>
+    <li class="movies__item movies__item--eng">Trading Places (1983)</li>
+    <li class="movies__item movies__item--eng">Life (1999)</li>
+    <li class="movies__item movies__item--eng">John Wick: Chapter 3 - Parabellum (2019)</li>
+    <li class="movies__item movies__item--eng">John Wick: Chapter 2 (2017)</li>
+    <li class="movies__item movies__item--eng">John Wick (2014)</li>
+    <li class="movies__item">Белое солнце пустыни (1970)</li>
     <li class="movies__item movies__item--eng">Terminator 3: Rise of the Machines (2003)</li>
     <li class="movies__item movies__item--eng">Terminator 2: Judgment Day (1991)</li>
     <li class="movies__item movies__item--eng">The Terminator (1984)</li>
