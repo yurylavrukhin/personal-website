@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ## 2021
 
-Chiang Rai, Thailand — 17 july — now
+Chiang Rai, Thailand — 25 july — now
+
+Chiang Mai, Thailand — 24 july — 25 july
+
+Chiang Rai, Thailand — 17 july — 24 july
 
 Chiang Mai, Thailand — 17 july
 
