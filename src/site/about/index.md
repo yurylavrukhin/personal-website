@@ -14,8 +14,9 @@ layout: layouts/base.njk
   Personal priorities in life: freedom, health, achievements, cheerfulness.
   ### Contacts
 
-  [Telegram](https://t.me/ajmdag/ "Telegram")
+  [Telegram](https://t.me/yurylavrukhin/ "Telegram")
   [GitHub](https://github.com/Ajmdag/ "GitHub")
-  [yurka7321@gmail.com](mailto:yurka7321@gmail.com "E-mail")
+  [Download PGP key](/static/mail@yurylavrukhin.com.asc "Download PGP key")
+  [mail@yurylavrukhin.com](mailto:mail@yurylavrukhin.com "E-mail")
 
 </div>
