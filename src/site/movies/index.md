@@ -6,6 +6,12 @@ layout: layouts/base.njk
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Julie & Julia (2009)
+      <span class="comment">👍</span>
+    </li>
+    <li class="movies__item">13 Assassins (2010)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item movies__item--eng">Falling Down (1993)</li>
     <li class="movies__item movies__item--eng">Wild (2014)</li>
     <li class="movies__item movies__item--eng">The Grand Seduction (2013)</li>
