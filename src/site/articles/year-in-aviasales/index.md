@@ -2,6 +2,8 @@
 layout: layouts/article.njk
 title: Year in Aviasales
 coverUrl: './assets/me_sun_grass.jpeg'
+tags: article
+date: 2020-10-26T04:00:00.000Z
 ---
 
 # Year in Aviasales

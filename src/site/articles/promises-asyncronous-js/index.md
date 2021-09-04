@@ -1,6 +1,8 @@
 ---
 layout: layouts/article.njk
 title: Promises By Example. Part 1
+tags: article
+date: 2019-10-09
 ---
 
 # Asynchronous JS. Promises By Example. Part 1
