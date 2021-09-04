@@ -1,8 +1,8 @@
 ---
 layout: layouts/article.njk
 title: 2019 год
-tags: articles
-publicationDate: 2019-12-21
+tags: article
+date: 2020-01-01
 ---
 
 # 2019
