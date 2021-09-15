@@ -6,7 +6,15 @@ layout: layouts/base.njk
 
 ## 2021
 
-Chiang Rai, Thailand — 15 august — now
+Chiang Rai, Thailand — 10 september — now
+
+Chiang Mai, Thailand — 9 september — 10 september
+
+Bangkok, Thailand — 7 september — 9 september
+
+_(Chiang Rai → Chiang Mai → Bangkok)_
+
+Chiang Rai, Thailand — 15 august — 7 september
 
 Chiang Mai, Thailand — 14 august — 15 august
 
