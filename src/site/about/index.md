@@ -4,18 +4,21 @@ layout: layouts/base.njk
 
 # About
 <div class="content">
+  <h3>
+    Hey, my name is Yury <br>
+  </h3>
 
-  Hi! My name is Yura.
+  When I was a kid my favorite TV series was <a href="https://en.m.wikipedia.org/wiki/The_Way_Things_Work_(TV_series)" >The&nbsp;Way&nbsp;Things&nbsp;Work</a>
 
-  I'm a frontend web developer, I write about web technologies here.
+  I'm a frontend web developer
 
-  [_this_](https://t.me/lavrucci/ "Channel") — is my telegram channel where I post my thoughts I found worth to share.
+  [my telegram channel](https://t.me/lavrucci/ "Channel") where I post my thoughts I found worth to share
 
-  Personal priorities in life: freedom, health, achievements, cheerfulness.
+  Personal priorities in life: freedom, health, achievements, cheerfulness
   ### Contacts
 
   [Telegram](https://t.me/yurylavrukhin/ "Telegram")
-  [GitHub](https://github.com/Ajmdag/ "GitHub")
+  [GitHub](https://github.com/yurylavrukhin/ "GitHub")
   [Download PGP key](/static/mail@yurylavrukhin.com.asc "Download PGP key")
   [mail@yurylavrukhin.com](mailto:mail@yurylavrukhin.com "E-mail")
 
