@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2021
 
-Chiang Mai, Thailand — 30 september — now
+Chiang Mai, Thailand — 29 november — now
+
+Chiang Rai, Thailand — 28 november — 29 november
+
+Chiang Rai (Pu Chi Fa mountain), Thailand — 27 november — 28 november
+
+Chiang Mai, Thailand — 30 september — 27 november
 
 Chiang Rai, Thailand — 10 september — 30 september
 
