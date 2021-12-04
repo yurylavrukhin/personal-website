@@ -10,7 +10,7 @@ Chiang Mai, Thailand — 29 november — now
 
 Chiang Rai, Thailand — 28 november — 29 november
 
-Chiang Rai (Pu Chi Fa mountain), Thailand — 27 november — 28 november
+<a href="./pu-chi-fa-mountain-2021-november-27-28">Chiang Rai (Pu Chi Fa mountain), Thailand — 27 november — 28 november</a>
 
 Chiang Mai, Thailand — 30 september — 27 november
 
