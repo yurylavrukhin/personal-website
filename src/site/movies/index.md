@@ -3,9 +3,21 @@ layout: layouts/base.njk
 ---
 
 # Movies I've seen
+## 2022
+<div class="movies">
+  <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Fight Club (1999)
+      <span class="comment">👍</span>
+    </li>
+  </ul>
+</div>
+
 ## 2021
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">The Wolf of Wall Street (2013)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item movies__item--eng">Julie & Julia (2009)
       <span class="comment">👍</span>
     </li>
