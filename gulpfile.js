@@ -12,7 +12,8 @@ gulp.task('css', () => {
     .pipe(gulp.dest('./dist'))
 })
 
-gulp.task('watch', () => {
+gulp.task('watch', (done) => {
+  gulp.parallel('css')(done)
   gulp.watch('./src/**/*.css', gulp.series('css'))
 })
 

@@ -8,22 +8,23 @@
   "private": true,
   "scripts": {
     "clean": "rm -rf dist",
-    "prestart": "npm run clean && gulp",
-    "start": "gulp watch & eleventy --serve",
-    "prebuild": "npm run clean",
-    "build": "gulp && eleventy"
+    "prestart": "pnpm run clean && gulp",
+    "start": "pnpm prestart && gulp watch & eleventy --serve",
+    "prebuild": "pnpm run clean",
+    "build": "pnpm prebuild && gulp && eleventy"
   },
   "devDependencies": {
     "@11ty/eleventy": "0.9.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "autoprefixer": "9.6.1",
     "gulp": "4.0.2",
-    "gulp-postcss": "8.0.0",
+    "gulp-postcss": "9.0.1",
     "gulp-sourcemaps": "2.6.5",
     "husky": "3.0.4",
     "lint-staged": "9.2.5",
+    "postcss": "^8.4.5",
     "postcss-easy-import": "3.0.0",
-    "postcss-nested": "4.1.2",
+    "postcss-nested": "5.0.6",
     "postcss-selector-matches": "4.0.0",
     "prettier": "1.18.2"
   }
