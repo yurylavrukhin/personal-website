@@ -4,9 +4,17 @@ layout: layouts/base.njk
 
 # Places
 
-## 2021
+## 2022
 
-Chiang Mai, Thailand — 29 november — now
+Kamphaeng Phet, Thailand — 6 march — now
+
+Tak, Thailand — 5 march — 6 march
+
+Lampang, Thailand — 4 march — 5 march
+
+Chiang Mai, Thailand — 29 november — 4 march
+
+## 2021
 
 Chiang Rai, Thailand — 28 november — 29 november
 
