@@ -6,7 +6,15 @@ layout: layouts/base.njk
 
 ## 2022
 
-Kamphaeng Phet, Thailand — 6 march — now
+Bangkok, Thailand — 7 march — now
+
+Phra Nakhon Si Ayutthaya, Thailand — 6 march — 7 march
+
+Sing Buri, Thailand — 6 march
+
+Nakhon Sawan, Thailand — 6 march
+
+Kamphaeng Phet, Thailand — 6 march
 
 Tak, Thailand — 5 march — 6 march
 
