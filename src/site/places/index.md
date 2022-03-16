@@ -6,7 +6,15 @@ layout: layouts/base.njk
 
 ## 2022
 
-Bangkok, Thailand — 7 march — now
+Phang-nga, Thailand — 16 march — now
+
+Chumphon, Thailand — 15 march — 16 march
+
+Prachuap Khiri Khan, Thailand — 14 march — 15 march
+
+Hua Hin, Prachuap Khiri Khan, Thailand — 13 march — 14 march
+
+Bangkok, Thailand — 7 march — 13 march
 
 Phra Nakhon Si Ayutthaya, Thailand — 6 march — 7 march
 
