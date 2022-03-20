@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2022
 
-Phang-nga, Thailand — 16 march — now
+Don Sak, Surat Thani, Thailand — 20 march — now
+
+Ko Samui, Thailand — 19 march — 20 march
+
+Phuket, Thailand — 17 march — 19 march
+
+Phang-nga, Thailand — 16 march — 17 march
 
 Chumphon, Thailand — 15 march — 16 march
 
