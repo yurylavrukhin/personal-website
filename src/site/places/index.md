@@ -6,7 +6,15 @@ layout: layouts/base.njk
 
 ## 2022
 
-Don Sak, Surat Thani, Thailand — 20 march — now
+Chiang Mai, Thailand — 23 march — now
+
+Phra Nakhon Si Ayutthaya, Thailand — 22 march — 23 march
+
+Bangkok, Thailand — 22 march
+
+Prachuap Khiri Khan, Thailand — 21 march — 22 march
+
+Don Sak, Surat Thani, Thailand — 20 march — 21 march
 
 Ko Samui, Thailand — 19 march — 20 march
 
