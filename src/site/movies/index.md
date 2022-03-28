@@ -124,7 +124,7 @@ layout: layouts/base.njk
     <li class="movies__item movies__item--eng">No Country for Old Men (2007)
       <span class="comment">👍</span>
     </li>
-    <li class="movies__item">Тинейджер на миллиард (Top Secret: Wai roon pun lan) (2011)
+    <li class="movies__item">ท็อป ซีเคร็ต วัยรุ่นพันล้าน (Top Secret: The Billionaire) (2011)
       <span class="comment">👍</span>
     </li>
     <li class="movies__item movies__item--eng">Interview with the Vampire (1994)</li>
