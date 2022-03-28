@@ -3,6 +3,13 @@ layout: layouts/base.njk
 ---
 
 # Books I've read
+## 2022
+<ul class="books__list">
+  <li class="books__item">
+    The Subtle Art of Not Giving a F*ck — Mark Manson
+  </li>
+</ul>
+
 ## 2021
 <ul class="books__list">
   <li class="books__item">
