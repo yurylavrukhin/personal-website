@@ -6,6 +6,9 @@ layout: layouts/base.njk
 ## 2022
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item">Django Unchained (2012)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item">Бумер (2003)
       <span class="comment">👍</span>
     </li>
