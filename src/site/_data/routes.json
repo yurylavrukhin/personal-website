@@ -17,6 +17,10 @@
       "title": "Books"
     },
     {
+      "url": "/questions/",
+      "title": "Questions"
+    },
+    {
       "url": "/quotes/",
       "title": "Quotes"
     },
