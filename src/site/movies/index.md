@@ -6,6 +6,9 @@ layout: layouts/base.njk
 ## 2022
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item">The Game (1997)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item">風立ちぬ (The Wind Rises) (2013)
       <span class="comment">👍</span>
     </li>
