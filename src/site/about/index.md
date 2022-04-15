@@ -20,6 +20,6 @@ layout: layouts/base.njk
   [Telegram](https://t.me/yurylavrukhin/ "Telegram")
   [GitHub](https://github.com/yurylavrukhin/ "GitHub")
   [Download PGP key](/static/mail@yurylavrukhin.com.asc "Download PGP key")
-  [mail@yurylavrukhin.com](mailto:mail@yurylavrukhin.com "E-mail")
+  [y@yurylavrukhin.com](mailto:y@yurylavrukhin.com "E-mail")
 
 </div>
