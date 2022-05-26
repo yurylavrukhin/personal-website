@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ## 2022
 
-Chiang Mai, Thailand — 23 march — now
+Chiang Mai, Thailand — 23 may — now
+
+Pai, Thailand — 22 may — 23 may
+
+Chiang Mai, Thailand — 23 march — 22 may
 
 Phra Nakhon Si Ayutthaya, Thailand — 22 march — 23 march
 
