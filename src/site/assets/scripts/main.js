@@ -1,4 +1,5 @@
-const colors = ['ffb74d', '8bcfee', '51f1be', 'ec6a6a']
+// const colors = ['ffb74d', '8bcfee', '51f1be', 'ec6a6a']
+const colors = ['ffb74d']
 const isSetInitialLoading = sessionStorage.getItem('isSetInitialLoading')
 
 if (!isSetInitialLoading) {
