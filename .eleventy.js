@@ -5,7 +5,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(pluginRss)
 
   return {
-    templateFormats: ['njk', 'md', 'png', 'jpg', 'jpeg', 'asc', 'avif'],
+    templateFormats: ['njk', 'md', 'png', 'jpg', 'jpeg', 'asc', 'avif', 'svg'],
     dir: {
       input: 'src/site',
       output: 'dist',
