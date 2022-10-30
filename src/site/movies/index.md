@@ -6,6 +6,8 @@ layout: layouts/base.njk
 ## 2022
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item">風の谷のナウシカ (Nausicaä of the Valley of the Wind) (1984)</li>
+    <li class="movies__item">崖の上のポニョ (Ponyo) (2008)</li>
     <li class="movies__item">The Game (1997)
       <span class="comment">👍</span>
     </li>
