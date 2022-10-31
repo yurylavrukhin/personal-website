@@ -9,6 +9,10 @@
       "title": "Movies"
     },
     {
+      "url": "/places/",
+      "title": "Places"
+    },
+    {
       "url": "/books/",
       "title": "Books"
     },
