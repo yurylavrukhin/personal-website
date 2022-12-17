@@ -104,7 +104,7 @@ Su-ngai Kolok, Thailand — 26 april
 
 Narathiwat, Thailand — 25 april — 26 april
 
-Pattani, Thailand — 25 april
+<a href="./pattani-april-25">Pattani, Thailand — 25 april</a>
 
 Songkhla, Thailand — 25 april
 
