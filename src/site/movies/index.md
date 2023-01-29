@@ -3,6 +3,13 @@ layout: layouts/base.njk
 ---
 
 # Movies I've seen
+## 2023
+<div class="movies">
+  <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Puss in Boots: The Last Wish (2022)</li>
+  </ul>
+</div>
+
 ## 2022
 <div class="movies">
   <ul class="movies__list">
