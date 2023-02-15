@@ -4,9 +4,23 @@ layout: layouts/base.njk
 
 # Places
 
+## 2023
+
+Sattahip, Thailand - 15 february - now
+
+Ko Lan Island, Thailand - 13 february - 15 february
+
+Sattahip, Thailand - 12 february - 13 february
+
+Samae San Island, Thailand - 12 february
+
+Sattahip, Thailand — 11 february - 12 february
+
+<!-- week in Mae Ka Chan -->
+
 ## 2022
 
-Chiang Mai, Thailand — 23 may — now
+Chiang Mai, Thailand — 23 may — 11 february
 
 Pai, Thailand — 22 may — 23 may
 
