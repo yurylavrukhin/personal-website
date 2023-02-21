@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ## 2023
 
-Sattahip, Thailand - 15 february - now
+Chiang Mai, Thailand - 20 february - now
+
+Bangkok, Thailand - 16 february - 20 february
+
+Sattahip, Thailand - 15 february - 16 february
 
 Ko Lan Island, Thailand - 13 february - 15 february
 
