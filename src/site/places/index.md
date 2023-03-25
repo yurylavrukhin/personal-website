@@ -6,25 +6,55 @@ layout: layouts/base.njk
 
 ## 2023
 
-Chiang Mai, Thailand - 20 february - now
+Tbilisi, Georgia — 24 march — now
 
-Bangkok, Thailand - 16 february - 20 february
+Batumi, Georgia — 20 march — 24 march
 
-Sattahip, Thailand - 15 february - 16 february
+Mestia, Georgia — 16 march — 20 march
 
-Ko Lan Island, Thailand - 13 february - 15 february
+Tbilisi, Georgia — 14 march — 16 march
 
-Sattahip, Thailand - 12 february - 13 february
+Istanbul, Turkey — 11 march — 14 march
 
-Samae San Island, Thailand - 12 february
+_(Kuala-Lumpur → Doha → Istanbul)_
 
-Sattahip, Thailand — 11 february - 12 february
+Kuala-Lumpur, Malaysia — 9 march — 11 march
 
-<!-- week in Mae Ka Chan -->
+Chiang Mai, Thailand — 8 march — 9 march
+
+Mae Kha Chan, Thailand — 1 march — 8 march
+
+Chiang Rai, Thailand — 1 march
+
+Mae Kha Chan, Thailand — 26 february — 1 march
+
+Chiang Mai, Thailand — 25 february — 26 february
+
+Mae Kha Chan, Thailand — 22 february — 25 february
+
+Chiang Mai, Thailand — 20 february — 22 february
+
+Bangkok, Thailand — 16 february — 20 february
+
+Pattaya, Thailand — 15 february — 16 february
+
+Ko Lan Island, Thailand — 13 february — 15 february
+
+Sattahip, Thailand — 12 february — 13 february
+
+Samae San Island, Thailand — 12 february
+
+Sattahip, Thailand — 11 february — 12 february
+
+_(Chiang Mai → Bangkok → Sattahip)_
+
+Chiang Mai, Thailand — 4 february — 11 february
+
+Mae Kha Chan, Thailand — 29 january — 4 february
 
 ## 2022
 
-Chiang Mai, Thailand — 23 may — 11 february
+Chiang Mai, Thailand — 23 may — 29 january
 
 Pai, Thailand — 22 may — 23 may
 
@@ -173,11 +203,11 @@ Buzuluk, Russia — 05 march — 12 march
 
 _(Phuket → Moscow → Samara → Buzuluk)_
 
-Phuket, Thailand — 02 december - 04 march
+Phuket, Thailand — 02 december — 04 march
 
 
 ## 2019
-Bangkok, Thailand  — 29 november - 02 december
+Bangkok, Thailand  — 29 november — 02 december
 
 Phuket, Thailand — 24 november — 29 november
 
@@ -185,27 +215,27 @@ Phi Phi Islands, Thailand — 23 november — 24 november
 
 Phuket, Thailand — 19 november — 23 november
 
-Kuala-Lumpur, Malaysia — 17 november - 19 november
+Kuala-Lumpur, Malaysia — 17 november — 19 november
 
-Phuket, Thailand  — 20 october - 16 november
+Phuket, Thailand  — 20 october — 16 november
 
-Omsk, Russia — 24 august - 19 october
+Omsk, Russia — 24 august — 19 october
 
-Borovoe, Kazakhstan — 17 august - 23 august
+Borovoe, Kazakhstan — 17 august — 23 august
 
-Omsk, Russia — 13 august - 16 august
+Omsk, Russia — 13 august — 16 august
 
 Buzuluk, Russia — 12 august
 
-Sochi, Russia — 4 august - 11 august
+Sochi, Russia — 4 august — 11 august
 
 Buzuluk, Russia — 20 may — 3 august
 
 Moscow, Russia — 5 february — 19 may
 
-Omsk, Russia — 13 january - 5 february
+Omsk, Russia — 13 january — 5 february
 
-Buzuluk, Russia — 29 december - 12 january
+Buzuluk, Russia — 29 december — 12 january
 
 ## 2018
 
@@ -221,4 +251,4 @@ Omsk, Russia — ??? — 24 december
 
 Buzuluk, Russia — finished the school in May
 
-## Russia — 2000 - 2019, 19 october
+## Russia — 2000 — 2019, 19 october
