@@ -6,7 +6,23 @@ layout: layouts/base.njk
 
 ## 2023
 
-Tbilisi, Georgia — 24 march — now
+Bangkok, Thailand — 21 april — now
+
+Chiang Mai, Thailand — 15 april — 20 april
+
+Mae Kha Chan, Thailand — 11 april — 15 april
+
+Chiang Mai, Thailand — 4 april — 11 april
+
+Bangkok, Thailand — 2 april — 4 april
+
+Phuket, Thailand — 2 april
+
+Kuala-Lumpur, Malaysia — 1 april — 2 april
+
+_(Tbilisi → Doha → Kuala-Lumpur)_
+
+Tbilisi, Georgia — 24 march — 1 april
 
 Batumi, Georgia — 20 march — 24 march
 
