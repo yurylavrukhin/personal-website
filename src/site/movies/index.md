@@ -7,6 +7,10 @@ layout: layouts/base.njk
 <div class="movies">
   <ul class="movies__list">
     <li class="movies__item movies__item--eng">The Dark Knight (2008)</li>
+    <li class="movies__item movies__item--eng">Lyle, Lyle, Crocodile (2022)</li>
+    <li class="movies__item movies__item--eng">Be water (2020)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item movies__item--eng">Puss in Boots: The Last Wish (2022)</li>
   </ul>
 </div>
