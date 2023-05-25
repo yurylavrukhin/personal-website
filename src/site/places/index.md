@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ## 2023
 
-Bangkok, Thailand — 21 april — now
+Mae Kha Chan, Thailand — 21 may — now
+
+Chiang Mai, Thailand — 11 may — 21 may
+
+Bangkok, Thailand — 21 april — 11 may
 
 Chiang Mai, Thailand — 15 april — 20 april
 
