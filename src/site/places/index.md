@@ -6,7 +6,9 @@ layout: layouts/base.njk
 
 ## 2023
 
-Mae Kha Chan, Thailand — 21 may — now
+Chiang Mai, Thailand — 30 may — now
+
+Mae Kha Chan, Thailand — 21 may — 30 may
 
 Chiang Mai, Thailand — 11 may — 21 may
 
