@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ## 2023
 
-Chiang Mai, Thailand — 30 may — now
+Chiang Mai, Thailand — 25 june — now
+
+Chiang Dao, Thailand — 24 june — 25 june
+
+Chiang Mai, Thailand — 30 may — 24 june
 
 Mae Kha Chan, Thailand — 21 may — 30 may
 
