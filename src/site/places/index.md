@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ## 2023
 
-Chiang Mai, Thailand — 25 june — now
+Chiang Mai, Thailand — 9 july — now
+
+🚴‍♂️ Pai, Thailand — 8 july — 9 july
+
+Chiang Mai, Thailand — 25 june — 8 july
 
 Chiang Dao, Thailand — 24 june — 25 june
 
