@@ -3,6 +3,16 @@ layout: layouts/base.njk
 ---
 
 # Books I've read
+## 2023
+<ul class="books__list">
+  <li class="books__item">
+    Shape Up: Stop Running in Circles and Ship Work that Matters — Ryan Singer, Jason Fried
+  </li>
+  <li class="books__item">
+    Screw It, Let's Do It — Richard Branson
+  </li>
+</ul>
+
 ## 2022
 <ul class="books__list">
   <li class="books__item">
