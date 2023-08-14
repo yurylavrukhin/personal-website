@@ -6,7 +6,9 @@ layout: layouts/base.njk
 
 ## 2023
 
-Chiang Mai, Thailand — 9 july — now
+Bangkok, Thailand — 13 august — now
+
+Chiang Mai, Thailand — 9 july — 13 august
 
 🚴‍♂️ Pai, Thailand — 8 july — 9 july
 
