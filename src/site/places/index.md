@@ -6,7 +6,19 @@ layout: layouts/base.njk
 
 ## 2023
 
-Bangkok, Thailand — 13 august — now
+Orenburg, Russia — 25 august — now
+
+Burzyansky District, Republic of Bashkortostan, Russia — 22 august — 25 august
+
+Buzuluk, Russia — 20 august — 21 august
+
+Orenburg, Russia — 18 august — 20 august
+
+_(Bangkok → Muscat → Moscow → Orenburg)_
+
+Muscat, Oman — 17 august
+
+Bangkok, Thailand — 13 august — 17 august
 
 Chiang Mai, Thailand — 9 july — 13 august
 
