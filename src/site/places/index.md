@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2023
 
-Orenburg, Russia — 25 august — now
+Saint Petersburg, Russia — 31 august — now
+
+Samara, Russia — 27 august — 31 august
+
+Buzuluk, Russia — 26 august — 27 august
+
+Orenburg, Russia — 25 august — 26 august
 
 Burzyansky District, Republic of Bashkortostan, Russia — 22 august — 25 august
 
