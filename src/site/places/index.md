@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2023
 
-Saint Petersburg, Russia — 31 august — now
+Phuket, Thailand — 9 september — now
+
+Bangkok, Thailand — 7 september — 9 september
+
+_(Saint Petersburg → Moscow → Sharjah → Bangkok)_
+
+Saint Petersburg, Russia — 31 august — 6 september
 
 Samara, Russia — 27 august — 31 august
 
