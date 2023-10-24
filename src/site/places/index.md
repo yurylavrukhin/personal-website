@@ -6,7 +6,35 @@ layout: layouts/base.njk
 
 ## 2023
 
-Phuket, Thailand — 9 september — now
+Austin, Texas, United States — 21 october — now
+
+San Francisco, California, United States — 21 october
+
+Alcatraz Island, California, United States — 21 october
+
+San Francisco, California, United States — 21 october
+
+Seoul, South Korea — 17 october — 21 october
+
+Hong Kong Island, Hong Kong — 16 october — 17 october
+
+_(Cotai Strip → Macau → Lantau Island → Hong Kong Island)_
+
+Cotai Strip, Macau — 16 october
+
+Macau — 15 october — 16 october
+
+_(Tsim Sha Tsui → Hong Kong Island → Macau)_
+
+Tsim Sha Tsui, Hong Kong — 14 october — 15 october
+
+Hong Kong Island, Hong Kong — 13 october — 14 october
+
+Ho Chi Minh City, Vietnam — 6 october — 13 october
+
+Chiang Mai, Thailand — 23 september — 6 october
+
+Phuket, Thailand — 9 september — 23 september
 
 Bangkok, Thailand — 7 september — 9 september
 
