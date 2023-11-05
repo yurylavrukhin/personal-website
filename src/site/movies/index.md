@@ -6,6 +6,10 @@ layout: layouts/base.njk
 ## 2023
 <div class="movies">
   <ul class="movies__list">
+    <li class="movies__item movies__item--eng">Kill Bill: Vol. 2 (2004)</li>
+    <li class="movies__item movies__item--eng">Kill Bill: Vol. 1 (2003)
+      <span class="comment">👍</span>
+    </li>
     <li class="movies__item movies__item--eng">Ex Machina (2014)</li>
     <li class="movies__item movies__item--eng">Transformers: Rise of the Beasts (2023)</li>
     <li class="movies__item movies__item--eng">The Dark Knight (2008)</li>
