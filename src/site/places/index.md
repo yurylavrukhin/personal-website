@@ -6,7 +6,21 @@ layout: layouts/base.njk
 
 ## 2023
 
-Austin, Texas, United States — 21 october — now
+Phuket, Thailand — 30 december — now
+
+Phang-nga, Thailand — 30 december
+
+Phuket, Thailand — 28 december — 30 december
+
+_(Cairo → Sharjah → Phuket)_
+
+Giza, Egypt — 27 december
+
+_(New York → Abu Dhabi → Cairo)_
+
+New York, New York — 20 december — 25 december
+
+Austin, Texas, United States — 21 october — 20 december
 
 San Francisco, California, United States — 21 october
 
