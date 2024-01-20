@@ -4,9 +4,23 @@ layout: layouts/base.njk
 
 # Places
 
+## 2024
+
+Austin, Texas, United States — 9 january — now
+
+_(Bangkok → Taiwan → Los Angeles → Ontario → Dallas → Austin)_
+
+Bangkok, Thailand — 8 january
+
+Phuket, Thailand — 6 january — 7 january
+
+Similan Islands, Thailand — 6 january
+
+_(Phuket → Khao Lak → Similan Islands)_
+
 ## 2023
 
-Phuket, Thailand — 30 december — now
+Phuket, Thailand — 30 december — 6 january
 
 Phang-nga, Thailand — 30 december
 
