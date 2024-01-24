@@ -32,7 +32,7 @@ Giza, Egypt — 27 december
 
 _(New York → Abu Dhabi → Cairo)_
 
-New York, New York — 20 december — 25 december
+New York, New York, United States — 20 december — 25 december
 
 Austin, Texas, United States — 21 october — 20 december
 
