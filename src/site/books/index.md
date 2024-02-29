@@ -3,6 +3,13 @@ layout: layouts/base.njk
 ---
 
 # Books I've read
+## 2024
+<ul class="books__list">
+  <li class="books__item">
+    Can't Hurt Me: Master Your Mind and Defy the Odds — David Goggins
+  </li>
+</ul>
+
 ## 2023
 <ul class="books__list">
   <li class="books__item">
