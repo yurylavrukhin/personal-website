@@ -6,7 +6,17 @@ layout: layouts/base.njk
 
 ## 2024
 
-Austin, Texas, United States — 9 january — now
+Austin, Texas, United States — 1 march — now
+
+_(Georgetown → Pflugerville → Austin)_
+
+Georgetown, Texas, United States — 1 march
+
+Austin, Texas, United States — 19 february — 1 march
+
+Pflugerville, Texas, United States — 19 february
+
+Austin, Texas, United States — 9 january — 19 february
 
 _(Bangkok → Taiwan → Los Angeles → Ontario → Dallas → Austin)_
 
