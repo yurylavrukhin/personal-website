@@ -16,7 +16,7 @@ nav a {
   }
 
   &::after {
-    transition: 200ms top ease;
+    transition: 300ms top ease;
     z-index: -1;
     position: absolute;
     content: '';
@@ -25,6 +25,7 @@ nav a {
     top: 85%;
     left: 0;
     right: 0;
+    border-radius: 4px;
   }
 
   &:hover::after {
