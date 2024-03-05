@@ -9,6 +9,14 @@
       "title": "Questions"
     },
     {
+      "url": "/movies/",
+      "title": "Movies"
+    },
+    {
+      "url": "/places/",
+      "title": "Places"
+    },
+    {
       "url": "/quotes/",
       "title": "Quotes"
     },
