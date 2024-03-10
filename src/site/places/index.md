@@ -6,7 +6,17 @@ layout: layouts/base.njk
 
 ## 2024
 
-Georgetown, Texas, United States — 4 march — now
+San Antonio, Texas, United States — 9 march — now
+
+_(Austin → Kyle → San Antonio)_
+
+Austin, Texas, United States — 8 march — 9 march
+
+_(Austin → Georgetown → Liberty Hill → Georgetown → Austin)_
+
+Austin, Texas, United States — 5 march — 8 march
+
+Georgetown, Texas, United States — 4 march — 5 march
 
 Austin, Texas, United States — 3 march — 4 march
 
