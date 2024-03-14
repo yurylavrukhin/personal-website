@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2024
 
-San Antonio, Texas, United States — 9 march — now
+Austin, Texas, United States — 13 march — now
+
+_(Austin → Taylor → Round Rock → Austin)_
+
+Austin, Texas, United States — 11 march — 13 march
+
+San Antonio, Texas, United States — 9 march — 11 march
 
 _(Austin → Kyle → San Antonio)_
 
