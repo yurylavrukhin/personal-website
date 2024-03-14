@@ -328,12 +328,13 @@ Bangkok, Thailand — 8 january — 9 january
 
 Chiang Mai, Thailand — 6 january — 7 january
 
-Chiang Rai, Thailand — 2 january — 5 january
+<a href="./chiang-rai-january-2021/">Chiang Rai, Thailand — 2 january — 5 january</a>
 
 Phuket, Thailand — 8 december — 1 january
 
 ## 2020
-Bangkok, Thailand — 31 october — 8 december
+
+<a href="./bangkok-november-2020/">Bangkok, Thailand — 31 october — 8 december</a>
 
 Phuket, Thailand — 28 september — 30 october
 
