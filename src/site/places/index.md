@@ -6,7 +6,19 @@ layout: layouts/base.njk
 
 ## 2024
 
-Austin, Texas, United States — 13 march — now
+Austin, Texas, United States — 25 march — now
+
+Houston, Texas, United States — 23 march — 25 march
+
+Austin, Texas, United States — 21 march — 23 march
+
+_(Austin → Georgetown → Austin)_
+
+Austin, Texas, United States — 17 march — 21 march
+
+_(Austin → New Braunfels → San Antonio → Austin)_
+
+Austin, Texas, United States — 13 march — 17 march
 
 _(Austin → Taylor → Round Rock → Austin)_
 
