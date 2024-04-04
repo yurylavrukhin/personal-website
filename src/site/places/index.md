@@ -6,7 +6,17 @@ layout: layouts/base.njk
 
 ## 2024
 
-Austin, Texas, United States — 25 march — now
+Dallas, Texas, United States — 4 april — now
+
+Rockett, Texas, United States — 3 april — 4 april
+
+_(Austin → Salado → Waco → Waxahachie → Rockett)_
+
+Austin, Texas, United States — 1 april — 3 april
+
+Georgetown, Texas, United States — 31 march — 1 april
+
+Austin, Texas, United States — 25 march — 31 march
 
 Houston, Texas, United States — 23 march — 25 march
 
