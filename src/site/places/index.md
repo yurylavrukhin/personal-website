@@ -8,7 +8,7 @@ layout: layouts/base.njk
 
 Fort Worth, Texas, United States — 6 april — now
 
-_(Fort Worth → Eagle Mountain Lake → Fort Worth)_
+_(Fort Worth → Azle → Pecan Acres → Fort Worth)_
 
 Fort Worth, Texas, United States — 5 april — 6 april
 
