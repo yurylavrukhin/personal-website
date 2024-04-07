@@ -6,7 +6,19 @@ layout: layouts/base.njk
 
 ## 2024
 
-Dallas, Texas, United States — 4 april — now
+Fort Worth, Texas, United States — 6 april — now
+
+_(Fort Worth → Eagle Mountain Lake → Fort Worth)_
+
+Fort Worth, Texas, United States — 5 april — 6 april
+
+_(Fort Worth → Keller → Fort Worth Stockyards → Fort Worth)_
+
+Fort Worth, Texas, United States — 4 april — 5 april
+
+_(Dallas → Irving → Dallas → Fort Worth)_
+
+Dallas, Texas, United States — 4 april
 
 Rockett, Texas, United States — 3 april — 4 april
 
