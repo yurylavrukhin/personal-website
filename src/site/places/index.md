@@ -6,7 +6,9 @@ layout: layouts/base.njk
 
 ## 2024
 
-Fort Worth, Texas, United States — 6 april — now
+Coppell, Texas, United States — 7 april — now
+
+Fort Worth, Texas, United States — 6 april — 7 april
 
 _(Fort Worth → Azle → Pecan Acres → Fort Worth)_
 
