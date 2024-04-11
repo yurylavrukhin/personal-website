@@ -6,7 +6,15 @@ layout: layouts/base.njk
 
 ## 2024
 
-Coppell, Texas, United States — 7 april — now
+Coppell, Texas, United States — 10 april — 11 april
+
+_(Austin → Georgetown → Coppell)_
+
+Austin, Texas, United States — 9 april — 10 april
+
+_(Coppell → Keene → Austin)_
+
+Coppell, Texas, United States — 7 april — 9 april
 
 Fort Worth, Texas, United States — 6 april — 7 april
 
