@@ -6,6 +6,36 @@ layout: layouts/base.njk
 
 ## 2024
 
+Fort Collins, Colorado, United States — 18 april — 19 april
+
+Denver, Colorado, United States — 17 april — 18 april
+
+_(Breckenridge Ski Resort → Arapahoe Basin → Loveland Ski Area → Denver)_
+
+Fairplay, Colorado, United States — 16 april — 17 april
+
+_(South Fork → Great Sand Dunes National Park and Preserve → Colorado Gators Reptile Park)_
+
+Pagosa Springs, Colorado, United States — 15 april — 16 april
+
+Santa Fe, New Mexico, United States — 14 april — 15 april
+
+_(Alpine → Guadalupe Mountains National Park → Roswell → Santa Fe)_
+
+Alpine, Texas, United States — 13 april — 14 april
+
+Langford Hot Springs — 13 april
+
+Pine Canyon Trail — 13 april
+
+Big Bend National Park, Texas, United States — 12 april — 13 april
+
+_(San Angelo → Fort Stockton → Big Bend National Park)_
+
+San Angelo, Texas, United States — 11 april — 12 april
+
+_(Coppell → Fort Worth → Abilene → San Angelo)_
+
 Coppell, Texas, United States — 10 april — 11 april
 
 _(Austin → Georgetown → Coppell)_
