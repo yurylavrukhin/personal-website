@@ -6,7 +6,23 @@ layout: layouts/base.njk
 
 ## 2024
 
-Fort Collins, Colorado, United States — 18 april — 19 april
+San Francisco, California, United States — 24 april — now
+
+San Luis Obispo, California, United States — 23 april — 24 april
+
+_(Jean → Victorville → Glendale → Santa Barbara → Lompoc → San Luis Obispo)_
+
+Jean, Nevada, United States — 22 april — 23 april
+
+_(Monticello → Forrest Gump Point → Las Vegas → Jean)_
+
+Monticello, Utah, United States — 21 april — 22 april
+
+_(Steamboat Springs → Moab → Monticello)_
+
+Steamboat Springs, Colorado, United States — 20 april — 21 april
+
+Fort Collins, Colorado, United States — 18 april — 20 april
 
 Denver, Colorado, United States — 17 april — 18 april
 
