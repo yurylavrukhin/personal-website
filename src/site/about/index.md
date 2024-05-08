@@ -8,9 +8,9 @@ layout: layouts/base.njk
     Hey, my name is Yury<br>
   </h3>
 
-  When I was a kid my favorite TV series was <a href="https://en.m.wikipedia.org/wiki/The_Way_Things_Work_(TV_series)" >The&nbsp;Way&nbsp;Things&nbsp;Work</a>
-
   I'm a frontend engineer
+
+  When I was a kid my favorite TV series was <a href="https://en.m.wikipedia.org/wiki/The_Way_Things_Work_(TV_series)" >The&nbsp;Way&nbsp;Things&nbsp;Work</a>
 
   <!-- [my telegram channel](https://t.me/lavrucci/ "Channel") where i post my thoughts i found worth to share -->
 
