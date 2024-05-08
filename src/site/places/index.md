@@ -6,7 +6,51 @@ layout: layouts/base.njk
 
 ## 2024
 
-San Francisco, California, United States — 24 april — now
+_(Tamalpais-Homestead Valley → San Rafael → Petaluma)
+
+Tamalpais-Homestead Valley, California, United States — 6 may — 7 may
+
+_(Stinson Beach → Muir Beach → Bolinas → Mill Valley → Tamalpais-Homestead Valley)_
+
+Stinson Beach, California, United States — 5 may — 6 may
+
+_(Sausalito → San Francisco → Sausalito → Mount Tamalpais → Stinson Beach)_
+
+Sausalito, California, United States — 4 may — 5 may
+ 
+_(Oakland → San Francisco → Sausalito)_
+
+Oakland, California, United States — 3 may — 4 may
+
+_(Folsom → El Dorado Hills → Folsom → Fair Oaks → Sacramento → Oakland)_
+
+Folsom, California, United States — 1 may — 3 may
+
+Citrus Heights, California, United States — 30 april — 1 may
+
+_(San Jose → Fremont → Pleasanton → Stockton → Sacramento → Citrus Heights)_
+
+San Jose, California, United States — 29 april — 30 april
+
+_(Menlo Park → Sunnyvale → Santa Cruz → San Jose)_
+
+Menlo Park, California, United States — 28 april — 29 april
+
+_(Pleasanton → Fremont → Stanford → Cupertino → Menlo Park)_
+
+Pleasanton, California, United States — 27 april — 28 april
+
+_(Oakland → San Leandro → Hayward → Pleasanton)_
+
+Oakland, California, United States — 26 april — 27 april
+
+_(San Francisco → Daly City → Berkeley → Oakland)_
+
+San Francisco, California, United States — 25 april — 26 april
+
+_(San Francisco → Daly City → San Francisco)_
+
+San Francisco, California, United States — 24 april — 25 april
 
 San Luis Obispo, California, United States — 23 april — 24 april
 
