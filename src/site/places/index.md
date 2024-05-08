@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
 ## 2024
 
-_(Tamalpais-Homestead Valley → San Rafael → Petaluma)
+_(Tamalpais-Homestead Valley → San Rafael → Petaluma)_
 
 Tamalpais-Homestead Valley, California, United States — 6 may — 7 may
 
