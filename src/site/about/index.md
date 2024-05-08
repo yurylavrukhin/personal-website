@@ -5,7 +5,7 @@ layout: layouts/base.njk
 # About
 <div class="content">
   <h3>
-    Hey, my name is Yuri<br>
+    Hey, my name is Yury<br>
   </h3>
 
   When I was a kid my favorite TV series was <a href="https://en.m.wikipedia.org/wiki/The_Way_Things_Work_(TV_series)" >The&nbsp;Way&nbsp;Things&nbsp;Work</a>
