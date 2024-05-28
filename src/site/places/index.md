@@ -6,7 +6,85 @@ layout: layouts/base.njk
 
 ## 2024
 
-_(Tamalpais-Homestead Valley → San Rafael → Petaluma)_
+_(Del Mar → Carlsbad → San Marcos)_
+
+Del Mar, California, United States — 26 may — 27 may
+
+_(Del Mar → San Marcos → Encinitas)_
+
+Del Mar, California, United States — 25 may — 26 may
+
+_(Torrey Pines → Sorrento Valley → Rancho San Diego → La Jolla → Columbia → Del Mar)_
+
+Torrey Pines, San Diego, California, United States — 24 may — 25 may
+
+Del Mar, California, United States — 23 may — 24 may
+
+_(La Jolla → Mira Mesa → Del Mar)_
+
+La Jolla, San Diego, California, United States — 22 may — 23 may
+
+_(North Park → Point Loma → Del Mar → Razor Point → La Jolla)_
+
+North Park, San Diego, California, United States — 21 may — 22 may
+
+_(Escondido → Oceanside → La Jolla → North Park)_
+
+Escondido, California, United States — 20 may — 21 may
+
+_(Sepulveda Basin → Encinitas Cardiff by the Sea → Mira Mesa → Escondido)_
+
+Sepulveda Basin, Los Angeles, California, United States — 19 may — 20 may
+
+_(Venice → Santa Monica → Sawtelle → Beachwood Canyon → Sepulveda Basin)_
+
+Venice, Los Angeles, California, United States — 18 may — 19 may
+
+_(Point Mugu Beach → Oxnard → Malibu → Point Dume Natural Preserve → Santa Monica → Agoura Hills → Venice)_
+
+Point Mugu Beach, California, United States — 17 may — 18 may
+
+_(Santa Barbara → Goleta → Ventura → Oxnard → Port Hueneme Pier → Oxnard → Point Mugu Beach)_
+
+Ventura, California, United States — 16 may — 17 may
+
+_(Santa Barbara → Goleta → Ventura)_
+
+Santa Barbara, California, United States — 15 may — 16 may
+
+_(Goleta → Santa Barbara → Montecito → Santa Barbara)_
+
+Goleta, California, United States — 14 may — 15 may
+
+_(Goleta → Santa Barbara → Goleta → Goleta Point → Goleta)_
+
+Goleta, California, United States — 13 may — 14 may
+
+_(Carpinteria → Montecito → Montecito Hot Springs → Santa Barbara → Goleta)_
+
+Carpinteria, California, United States — 12 may — 13 may
+
+_(Ragged Point → Sand Dollar Beach → Salmon Creek Falls → Ragged Point → Harmony → Morro Bay → Santa Barbara → Carpinteria)_
+
+Ragged Point, California, United States — 11 may — 12 may
+
+_(China Vista Point → San Luis Obispo → Cambria → San Simeon → Ragged Point)_
+
+China Vista Point, California, United States — 10 may — 11 may
+
+_(Redondo Beach → San Mateo → Natural Bridges Santa Cruz → Pebble Beach → China Vista Point)_
+
+Redondo Beach, California, United States — 9 may — 10 may
+
+_(San Francisco → Pillar Point Harbor Beach → Redondo Beach → Half Moon Bay → Redondo Beach)_
+
+San Francisco, California, United States — 8 may — 9 may
+
+_(Tamalpais-Homestead Valley → Tennessee Beach → Sausalito → San Francisco)_
+
+Tamalpais-Homestead Valley, California, United States — 7 may — 8 may
+
+_(Tamalpais-Homestead Valley → San Rafael → Petaluma → Tamalpais-Homestead Valley)_
 
 Tamalpais-Homestead Valley, California, United States — 6 may — 7 may
 
