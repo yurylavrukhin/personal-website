@@ -6,6 +6,8 @@ layout: layouts/base.njk
 
 ## 2024
 
+San Marcos, California, United States — 27 may — 28 may
+
 _(Del Mar → Carlsbad → San Marcos)_
 
 Del Mar, California, United States — 26 may — 27 may
