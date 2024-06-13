@@ -6,6 +6,56 @@ layout: layouts/base.njk
 
 ## 2024
 
+_(Folsom → El Dorado Hills)_
+
+Folsom, California, United States — 11 june — 12 june
+
+_(Mariposa → Coulterville → San Andreas → Folsom)_
+
+Mariposa, California, United States — 10 june — 11 june
+
+_(Midpines → Mariposa → Merced → Mariposa)_
+
+Midpines, California, United States — 9 june — 10 june
+
+Yosemite National Park, California, United States — 7 june — 9 june
+
+_(Sequoia National Park → Fresno → Yosemite National Park)_
+
+Sequoia National Park, California, United States — 5 june — 7 june
+
+_(Kernville → Porteville → Sequoia National Park)_
+
+Kernville, California, United States — 4 june — 5 june
+
+_(Bakersfield → Lake Isabella → Kernville)_
+
+Bakersfield, California, United States — 3 june — 4 june
+
+Malibu, Los Angeles, California, United States — 2 june — 3 june
+
+_(Glendora Mountain → Azusa → Pasadena → Glendale → Malibu)_
+
+Glendora Mountain, Los Angeles, California, United States — 1 june — 2 june
+
+_(La Jolla Village → Poway → San Marcos → Kenny's Strawberry Farm -> Temecula Berry Co → Glendora Mountain)_
+
+La Jolla Village, San Diego, California, United States — 31 may — 1 june
+
+_(National City → Chula Vista → La Jolla Village)_
+
+National City, California, United States — 30 may — 31 may
+
+_(San Marcos → Escondido → Harborview → Little Italy → Chula Vista → National City)_
+
+San Marcos, California, United States — 29 may — 30 may
+
+_(Mira Mesa → Coronado → Imperial Beach → Coronado → Mission Hills → Cardiff By The Sea → San Marcos)_
+
+Mira Mesa, San Diego, California, United States — 28 may — 29 may
+
+_(San Marcos → Torrey Pines → La Jolla → Mira Mesa)_
+
 San Marcos, California, United States — 27 may — 28 may
 
 _(Del Mar → Carlsbad → San Marcos)_
