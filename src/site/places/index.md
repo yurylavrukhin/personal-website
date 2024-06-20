@@ -6,6 +6,10 @@ layout: layouts/base.njk
 
 ## 2024
 
+San Francisco, California, United States — 13 june — now
+
+El Dorado Hills, California, United States — 12 june — 13 june
+
 _(Folsom → El Dorado Hills)_
 
 Folsom, California, United States — 11 june — 12 june
