@@ -6,7 +6,13 @@ layout: layouts/base.njk
 
 ## 2024
 
-San Francisco, California, United States — 13 june — now
+Tamalpais Valley, California, United States — 24 june — now
+
+_(Tamalpais Valley → San Francisco → Tamalpais Valley)_
+
+Tamalpais Valley, California, United States — 21 june — 23 june
+
+San Francisco, California, United States — 13 june — 21 june
 
 El Dorado Hills, California, United States — 12 june — 13 june
 
