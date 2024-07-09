@@ -2,9 +2,9 @@
 layout: layouts/base.njk
 ---
 
-# Pattani
+# Bangkok
 
-*Bangkok November 2020*
+*November 2020*
 
 ![](./images/1.jpeg "")
 

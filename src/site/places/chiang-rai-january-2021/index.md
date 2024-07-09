@@ -2,9 +2,9 @@
 layout: layouts/base.njk
 ---
 
-# Pattani
+# Chiang Rai
 
-*Chiang Rai January 2021*
+*January 2021*
 
 ![](./images/3.jpeg "")
 
